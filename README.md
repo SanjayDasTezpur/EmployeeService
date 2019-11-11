@@ -22,3 +22,6 @@ Way to start :-
 (You can check in UI recommended is chrome browser by typing http://localhost:8086  
 Or After following above all steps just click here [home page](http://localhost:8086)).
 
+API Documentation
+----------
+You can check all API docs by typing on browser http://localhost:8086/explorer. API docs are provided with the Help of Swagger UI.
