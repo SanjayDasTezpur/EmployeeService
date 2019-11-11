@@ -19,5 +19,6 @@ Way to start :-
     * then run:-  bower install
     * after all these above successful steps run :- gradlew bootrun
 
-(You can check in UI recommended is chrome browser by typing http://localhost:8086  [home page](http://localhost:8086)).
+(You can check in UI recommended is chrome browser by typing http://localhost:8086  
+Or After following above all steps just click here [home page](http://localhost:8086)).
 
